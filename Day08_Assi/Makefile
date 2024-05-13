@@ -1,5 +1,5 @@
 
-TARGET=assi1
+TARGET=demo3
 
 CSRCS= $(TARGET).c
 CSRCS+= 
